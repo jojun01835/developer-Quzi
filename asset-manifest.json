@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/developer-Quzi/static/css/main.022cf6a0.css",
+    "main.js": "/developer-Quzi/static/js/main.8137ba1f.js",
+    "index.html": "/developer-Quzi/index.html",
+    "main.022cf6a0.css.map": "/developer-Quzi/static/css/main.022cf6a0.css.map",
+    "main.8137ba1f.js.map": "/developer-Quzi/static/js/main.8137ba1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022cf6a0.css",
+    "static/js/main.8137ba1f.js"
+  ]
+}
