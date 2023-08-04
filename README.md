@@ -1,6 +1,6 @@
-# 🤖Thumbnail_machine
+# 📚
 
-리액트로 만든 동영상 썸네일 제작 웹페이지
+리액트로 만든 개발자 퀴즈 웹페이지
 <br>
 <br>
 
@@ -9,7 +9,8 @@
 
 리액트로 처음 만들어 본 토이프로젝트입니다.
 
-<img width="100%" src="./readmeImg/thumnail.gif"/>
+![1](https://github.com/jojun01835/developer-Quzi/assets/73435598/a0bffeee-3b95-4bc1-904f-3933eb3a7ce2)
+
 <br>
 
 ## 🕰️ 개발 기간
